@@ -3,7 +3,7 @@
 class SearchCest
 {
     /*
-    * проверить поиск по тексту и количеству найденных элементов
+    * проверить поиск по тексту / количеству найденных элементов
     */
     public function checkSearchByText(AcceptanceTester $I)
     {
